@@ -26,6 +26,6 @@
 👉 Github & Git commands (push, pull, commit, add etc.)
 
 ## Description
-I made this website to improve my HTML and CSS skills. Espacially css grid and responsive properties.
+I made this website to improve my HTML and CSS skills. Espacially css grid and responsive.
 
 This website is about  a team.
